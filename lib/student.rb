@@ -5,4 +5,7 @@ def Student
   end
   
   def raise_end
-    puts 
+    puts "Pick me!"
+  end
+  
+end
